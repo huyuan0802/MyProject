@@ -1,0 +1,3 @@
+com\feignSerice\spi\EurekaServerSpi.class
+com\feignSerice\FeignSericeApplication.class
+com\feignSerice\controller\FeignController.class
